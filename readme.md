@@ -10,7 +10,7 @@
 
 
 - Here is the link of the website
-- [Click Here](https://alpha-tribe-education-website.netlify.app/)
+- [Click Here](https://alpha-tribe.netlify.app/)
 
 ![](./images/a1.png)
 ![](./images/a2.png)
